@@ -1,6 +1,6 @@
 {
   "name": "xbcvue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "这是张小叶用于学习的vue组件库",
   "main": "index.js",
   "scripts": {
