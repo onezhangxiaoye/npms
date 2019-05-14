@@ -1,0 +1,15 @@
+{
+  "name": "xbc-firstnpm",
+  "version": "1.0.1",
+  "description": "这是张小叶第一个npm包的上传测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "packge"
+  ],
+  "author": "zhangxiaoye",
+  "license": "ISC"
+}
